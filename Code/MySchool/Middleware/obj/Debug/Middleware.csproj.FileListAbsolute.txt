@@ -1,0 +1,12 @@
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\Middleware\bin\Debug\Middleware.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\Middleware\bin\Debug\Middleware.pdb
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\Middleware\obj\Debug\Middleware.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\Middleware\obj\Debug\Middleware.pdb
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Middleware.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Middleware.pdb
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\Middleware\obj\Debug\Middleware.csprojResolveAssemblyReference.cache
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Middleware.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Middleware.pdb
+C:\Myschool\Code\CloudServiceMySchool\Middleware\obj\Debug\Middleware.csprojResolveAssemblyReference.cache
+C:\Myschool\Code\CloudServiceMySchool\Middleware\obj\Debug\Middleware.dll
+C:\Myschool\Code\CloudServiceMySchool\Middleware\obj\Debug\Middleware.pdb
