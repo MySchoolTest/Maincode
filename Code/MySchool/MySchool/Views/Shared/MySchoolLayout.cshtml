@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link href="~/Content/grid/grid.min.css" rel="stylesheet" />
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script src="~/Scripts/grid/grid.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.2.0/jquery-confirm.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.2.0/jquery-confirm.min.js"></script>
+    
+
+    <link href="~/Content/gspinner.min.css" rel="stylesheet" />
+
+    <script src="~/Scripts/g-spinner.js"></script>
+ 
+  <style>
+      .required:after
+      {
+         content:"*";
+         color:red;
+      }
+       
+ 
+  </style>
+    
+
+  
+
+  
+    
+    
+    
+    <script>
+    $(document).ready(function () {
+        
+        var pathname = window.location.pathname;
+      
+        $("#myNavbarleft li").each(function () {
+            
+           
+            var HREF = $(this).children("a").attr("href");
+            
+            if (HREF == pathname) {
+               
+                $(this).addClass("active");
+            }
+        })
+    });
+    </script>
+    <style>
+        .topicon {
+            padding-top: 5px;
+        }
+
+        .topmenu {
+            background-color: lightgrey;
+        }
+
+        .content {
+            text-align: centre;
+            font-family: Arial san-serif;
+        }
+
+        .leftmenu {
+            background-color: #f8f8f8;
+        }
+
+        span {
+            font: bold;
+        }
+
+        h4 {
+            text-align: center;
+            font: bold;
+        }
+
+        .footer {
+            background-color: lightgrey;
+            text-align: center;
+            font: bold;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="row topmenu">
+        <div class="col-sm-4">
+           
+            <img src="~/Images/CompanyLogo.jpg" height="45px" width="200px"></img>
+        </div>
+        <div class="col-sm-8 hidden-xs">
+            <ul class="nav navbar-nav pull-right">
+                <li>
+
+                    <i class="fa fa-bell fa-2x topicon"></i>
+                </li>
+                <li>
+                    <i class="fa fa-tasks fa-2x topicon" aria-hidden="true"></i>
+                </li>
+                <li>
+                    <div class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+
+                            <img src="~/Images/ProfilePicture.jpg" height=" 30px" width="30px" class="img-circle" alt="Avatar">
+                            <span>Samiran Sen</span>
+
+
+                            <i class="fa fa-angle-down fa-2x"></i>
+
+                        </a>
+
+
+                        <ul class="dropdown-menu">
+                            <li><a href="#"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> My Profile</a></li>
+                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i> Help</a></li>
+                            <li><a href="#"><i class="fa fa-check-square" aria-hidden="true"></i> Sign Out</a></li>
+
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
+    <div class="row">
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav" id="myNavbar">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Student</a></li>
+                    <li><a href="#">Teacher</a></li>
+                    <li><a href="#">Parents</a></li>
+                    <li class="active"><a href="#">Sys Admin</a></li>
+                    <li><a href="#">Reports</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-sm-2 leftmenu">
+            <h4 class="hidden-xs">Sys Admin</h4>
+            <div>
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbarleft">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbarleft">
+                    <ul class="nav nav-pills nav-stacked " id="myNavbarleft">
+                        <li><a href="~/Home/Index"> <i class="fa fa-child" aria-hidden="true"></i> Admission</a></li>
+                        <li><a href="#"><i class="fa fa-bus" aria-hidden="true"></i> Transport</a></li>
+                        <li><a href="#"> <i class="fa fa-book" aria-hidden="true"></i> Libary</a></li>
+                        <li><a href="#"> <i class="fa fa-credit-card" aria-hidden="true"></i> Fee</a></li>
+                        <li><a href="#"><i class="fa fa-bus" aria-hidden="true"></i>  Attendence</a></li>
+                        <li><a href="~/Home/UserRoles"><i class="fa fa-child" aria-hidden="true"></i> User & Roles</a></li>
+                        <li><a href="#"><i class="fa fa-bus" aria-hidden="true"></i>  Employee</a></li>
+                        <li><a href="#"><i class="fa fa-credit-card" aria-hidden="true"></i> HR</a></li>
+                        <li><a href="#"> <i class="fa fa-certificate" aria-hidden="true"></i> Account</a></li>
+                        <li><a href="#"> <i class="fa fa-bar-chart" aria-hidden="true"></i> SMS</a></li>
+                        <li><a href="#"><i class="fa fa-book" aria-hidden="true"></i> Notice</a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-10 content">
+            <div id="loader" style="z-index:9999;height: 100%;position: fixed;top:40%;left:50%  ">
+
+            </div>
+
+                @RenderBody()
+            
+
+
+        </div>
+    </div>
+
+    
+    <div class="row footer">
+        Made by Samiran Sen © 2016
+    </div>
+
+</body>
+</html>

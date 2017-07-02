@@ -1,0 +1,141 @@
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\MySchool.dll.config
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\MySchool.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\MySchool.pdb
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Edm.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.Data.OData.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Services.Client.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Newtonsoft.Json.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Spatial.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Helpers.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Mvc.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Razor.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Deployment.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Razor.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\MonAgentListener.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Edm.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.Data.OData.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Services.Client.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Spatial.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Razor.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Deployment.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Razor.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Helpers.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\System.Web.Mvc.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\de\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\es\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\fr\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\it\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ja\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ko\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\ru\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\obj\Debug\MySchool.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\obj\Debug\MySchool.pdb
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Middleware.pdb
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\MySchool\bin\Newtonsoft.Json.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\MySchool.dll.config
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\MySchool.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\MySchool.pdb
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Edm.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.Data.OData.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Services.Client.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Newtonsoft.Json.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Spatial.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Helpers.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Mvc.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Razor.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Deployment.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Razor.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\MonAgentListener.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Edm.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.Data.OData.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.Data.Services.Client.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\Middleware.pdb
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Spatial.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Razor.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Deployment.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Webpages.Razor.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Helpers.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\System.Web.Mvc.xml
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\de\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\es\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\it\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\de\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\es\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\fr\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\it\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ja\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ko\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\ru\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hans\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\bin\zh-Hant\System.Spatial.resources.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+C:\Myschool\Code\CloudServiceMySchool\MySchool\obj\Debug\MySchool.dll
+C:\Myschool\Code\CloudServiceMySchool\MySchool\obj\Debug\MySchool.pdb
