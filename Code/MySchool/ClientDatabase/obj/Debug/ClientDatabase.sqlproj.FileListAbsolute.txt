@@ -1,0 +1,9 @@
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\bin\Debug\ClientDatabase.dacpac
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\bin\Debug\ClientDatabase.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\bin\Debug\ClientDatabase.pdb
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\obj\Debug\Model.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\obj\Debug\refactor.xml
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\obj\Debug\postdeploy.sql
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\obj\Debug\predeploy.sql
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\obj\Debug\ClientDatabase.dll
+C:\Users\WEB4PC\Documents\Visual Studio 2013\Projects\CloudServiceMySchool\ClientDatabase\obj\Debug\ClientDatabase.pdb
